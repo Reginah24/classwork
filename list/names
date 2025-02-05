@@ -1,0 +1,5 @@
+#!/bin/bash
+for name in regina anthony majura
+do
+echo "My name is $name"
+done
